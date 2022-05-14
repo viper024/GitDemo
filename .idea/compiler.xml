@@ -8,7 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="MavenJava" />
         <module name="GitDemo" />
+        <module name="GITX" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="GITX" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>

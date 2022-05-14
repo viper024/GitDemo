@@ -11,7 +11,16 @@ public class RESTAPITest {
     @Test
     public void RestAPI() {
         System.out.println("RestAPI");
+        System.out.println("RestAPI");
+        System.out.println("RestAPI");
+        System.out.println("RestAPI");
+        System.out.println("RestAPI");
+        System.out.println("RestAPI");
+
+
     }
+
+
     @Test
     public void RestAPI2() {
         System.out.println("RestAPI");
