@@ -14,9 +14,9 @@ public class AppiumTest {
     }
     @Test
     public void appium2(){
-        System.out.println("Appium2")
+        System.out.println("Appium2");
         System.out.println("Appium1");
         System.out.println("Appium1");
-        ;
+
     }
 }
