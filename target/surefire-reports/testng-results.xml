@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-12T14:46:55 IST" name="All Test Suite" finished-at="2022-05-12T14:46:55 IST" duration-ms="109">
+    <groups>
+    </groups>
+    <test started-at="2022-05-12T14:46:55 IST" name="C:/Users/viper024/IdeaProjects/Maven" finished-at="2022-05-12T14:46:55 IST" duration-ms="109">
+      <class name="org.example.AppiumTest">
+        <test-method signature="appium1()[pri:0, instance:org.example.AppiumTest@7880cdf3]" started-at="2022-05-12T14:46:55 IST" name="appium1" finished-at="2022-05-12T14:46:55 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appium1 -->
+        <test-method signature="appium2()[pri:0, instance:org.example.AppiumTest@7880cdf3]" started-at="2022-05-12T14:46:55 IST" name="appium2" finished-at="2022-05-12T14:46:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appium2 -->
+      </class> <!-- org.example.AppiumTest -->
+      <class name="org.example.SeleniumTest">
+        <test-method signature="selenium1()[pri:0, instance:org.example.SeleniumTest@1d119efb]" started-at="2022-05-12T14:46:55 IST" name="selenium1" finished-at="2022-05-12T14:46:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selenium1 -->
+        <test-method signature="selenium2()[pri:0, instance:org.example.SeleniumTest@1d119efb]" started-at="2022-05-12T14:46:55 IST" name="selenium2" finished-at="2022-05-12T14:46:55 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selenium2 -->
+      </class> <!-- org.example.SeleniumTest -->
+      <class name="org.example.RESTAPITest">
+        <test-method signature="API()[pri:0, instance:org.example.RESTAPITest@6fe7aac8]" started-at="2022-05-12T14:46:55 IST" name="API" finished-at="2022-05-12T14:46:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- API -->
+        <test-method signature="RestAPI()[pri:0, instance:org.example.RESTAPITest@6fe7aac8]" started-at="2022-05-12T14:46:55 IST" name="RestAPI" finished-at="2022-05-12T14:46:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPI -->
+      </class> <!-- org.example.RESTAPITest -->
+    </test> <!-- C:/Users/viper024/IdeaProjects/Maven -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
